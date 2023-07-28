@@ -1,0 +1,14 @@
+[
+    {
+        "color": "purple",
+        "type": "minivan",
+        "img": "./img/test1.jpg",
+        "capacity": 7
+    },
+    {
+        "color": "red",
+        "type": "station wagon",
+        "img": "./img/test2.jpg",
+        "capacity": 5
+    }
+]

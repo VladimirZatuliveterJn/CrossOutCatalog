@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <link href="./bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <script type="text/javascript" src="main.js"></script>
+    </head>
+    <body>
+        <p>
+            <label for="rarity">Choose a rarity:</label>
+            <select id="rarity" class="form-select" onchange="onSelect();">
+                <option value="common">Common</option>
+                <option value="unusual">Unusual</option>
+                <option value="rare">Rare</option>
+                <option value="epic">Epic</option>
+            </select>
+        </p>
+
+        <p>
+            <label for="moduleType">Module type:</label>
+            <select id="moduleType" class="form-select" onchange="onSelect();">
+                <option value="cabin">Cabin</option>
+                <option value="weapon">Weapon</option>
+            </select>
+        </p>
+
+        <div id="cards" class="row">
+                       
+        </div>
+
+    </body>
+</html>
