@@ -76,10 +76,15 @@ async function onSelect() {
                 <div class="card-body">
                 <h5 class="card-title">${item.name}</h5>
                 <p class="card-text">
+                    <p>Resources:</p>
                     <ul>    
                         <li>Iron: ${item.iron}</li>
-                        <li>Cuprum: ${item.cuprum}</li>
+                        <li>Cuprum: ${item.cuprum}</li>                        
                     </ul>
+                    <p>Depends On:</p>
+                    <ul>   
+                        ${item.dependency?.map(e => `<li>${e}</li>`)?.join('')}                                               
+                    </ul>                    
                 </p>
                 <a href="#" class="btn btn-primary">Go somewhere</a>
                 </div>
