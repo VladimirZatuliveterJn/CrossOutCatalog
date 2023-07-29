@@ -1,9 +1,15 @@
 
-function getData(fileName, draw)
+// function getDataAsync(filePath, onRead)
+// {
+//     fetch(filePath)
+//         .then((response) => response.json())
+//         .then((json) => onRead(json));
+// }
+
+async function getData(filePath)
 {
-    fetch(`./data/${fileName}`)
-        .then((response) => response.json())
-        .then((json) => draw(json));
+    const response = await fetch(`./data/${filePath}`);
+    return await response.json();
 }
 
 function getSelectedValue(selectId) {
@@ -13,7 +19,28 @@ function getSelectedValue(selectId) {
     return selectedValue
 }
 
-function onSelect() {
+async function getParams(depencency) {
+    // example: "common/cabin/eger"
+    let parts = depencency.split('/'); // Split the string by '/'
+    objectName = parts.pop(); // Remove the last element from the array
+    
+    fileName = parts.join('/') + '.json'
+    jsonData = await getData(fileName)
+
+    object = findObjectByName(jsonData, objectName)
+    return object
+}
+
+function findObjectByName(data, name) {
+    for (const obj of data) {
+        if (obj.name === name) {
+            return obj;
+        }
+    }
+    return null; // If the object is not found, return null
+}
+
+async function onSelect() {
     var cards = document.getElementById("cards");
     cards.innerHTML = "";
     
@@ -22,26 +49,42 @@ function onSelect() {
     
     dataFileName = `${rarity}/${moduleType}.json`
 
-    getData(dataFileName, (json) => {
-        //alert(json)
-        for (const item of json) {
-            img = `./img/${rarity}/${moduleType}/${item.name}.webp`
-            cardHtml = `
-                <div class="card" style="width: 18rem;">
-                    <img src="${img}" class="card-img-top" alt="...">
-                    <div class="card-body">
-                    <h5 class="card-title">${item.name}</h5>
-                    <p class="card-text">
-                        <ul>    
-                          <li>Iron: ${item.iron}</li>
-                          <li>Cuprum: ${item.cuprum}</li>
-                        </ul>
-                    </p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            `            
-            cards.innerHTML += cardHtml
+    json = await getData(dataFileName)
+
+    console.log(dataFileName)
+
+    for (const item of json) {
+        img = `./img/${rarity}/${moduleType}/${item.name}.webp`
+        
+        console.log(item.name, item.dependency)
+
+        if (item.dependency !== undefined)
+        {
+            for (const dependency of item.dependency)
+            {
+                console.log("dependecny:", dependency)
+
+                params = await getParams(dependency)
+                item.iron += params.iron
+                item.cuprum += params.cuprum
+            }
         }
-    })
+
+        cardHtml = `
+            <div class="card" style="width: 18rem;">
+                <img src="${img}" class="card-img-top" alt="...">
+                <div class="card-body">
+                <h5 class="card-title">${item.name}</h5>
+                <p class="card-text">
+                    <ul>    
+                        <li>Iron: ${item.iron}</li>
+                        <li>Cuprum: ${item.cuprum}</li>
+                    </ul>
+                </p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        `            
+        cards.innerHTML += cardHtml
+    }
 }

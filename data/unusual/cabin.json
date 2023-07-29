@@ -1,17 +1,24 @@
 [   
     {
-        "name": "Eger",
-        "cuprum": 15,
-        "iron": 75
+        "name": "Ryk",
+        "cuprum": 151,
+        "iron": 805
     },
     {
-        "name": "WWT1",
-        "cuprum": 15,
-        "iron": 75
+        "name": "Dalnoboy",
+        "cuprum": 130,
+        "iron": 700,       
+        "dependency": [
+            "common/cabin/docker",
+            "common/cabin/sprinter"
+        ]
     },
     {
-        "name": "Docker",
-        "cuprum": 15,
-        "iron": 75
+        "name": "Wyverna",
+        "cuprum": 130,
+        "iron": 700,        
+        "dependency": [
+            "common/cabin/eger"
+        ]
     }
 ]   
