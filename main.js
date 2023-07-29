@@ -25,9 +25,10 @@ function onSelect() {
     getData(dataFileName, (json) => {
         //alert(json)
         for (const item of json) {
+            img = `./img/${rarity}/${moduleType}/${item.name}.webp`
             cardHtml = `
                 <div class="card" style="width: 18rem;">
-                    <img src="${item.img}" class="card-img-top" alt="...">
+                    <img src="${img}" class="card-img-top" alt="...">
                     <div class="card-body">
                     <h5 class="card-title">${item.name}</h5>
                     <p class="card-text">

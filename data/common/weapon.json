@@ -1,14 +1,8 @@
 [
     {
-        "color": "purple",
-        "type": "tasdfasdf",
-        "img": "./img/test1.jpg",
-        "capacity": 7
+        "name": "tasdfasdf"
     },
     {
-        "color": "red",
-        "type": "asdfasdfasdf",
-        "img": "./img/test2.jpg",
-        "capacity": 5
+        "name": "asdfasdfasdf"
     }
 ]
