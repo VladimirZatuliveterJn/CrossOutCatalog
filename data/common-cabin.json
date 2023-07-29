@@ -1,14 +1,32 @@
 [
     {
-        "color": "purple",
-        "type": "minivan",
+        "name": "minivan",
         "img": "./img/test1.jpg",
-        "capacity": 7
+        "cuprum": 15,
+        "iron": 75
     },
     {
-        "color": "red",
-        "type": "station wagon",
+        "name": "station wagon",
         "img": "./img/test2.jpg",
-        "capacity": 5
+        "cuprum": 15,
+        "iron": 75
+    },
+    {
+        "name": "Sprinter",
+        "img": "./img/Sprinter.jpg",
+        "cuprum": 15,
+        "iron": 75
+    },
+    {
+        "name": "Eger",
+        "img": "./img/Eger.jpg",
+        "cuprum": 15,
+        "iron": 75
+    },
+    {
+        "name": "WWT1",
+        "img": "./img/WWT1.webp",
+        "cuprum": 15,
+        "iron": 75
     }
 ]
