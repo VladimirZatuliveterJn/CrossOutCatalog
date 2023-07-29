@@ -1,25 +1,25 @@
 [
     {
         "name": "Sprinter",
-        "img": "./img/Sprinter.jpg",
+        "img": "./img/common/cabin/Sprinter.jpg",
         "cuprum": 15,
         "iron": 75
     },
     {
         "name": "Eger",
-        "img": "./img/Eger.jpg",
+        "img": "./img/common/cabin/Eger.jpg",
         "cuprum": 15,
         "iron": 75
     },
     {
         "name": "WWT1",
-        "img": "./img/WWT1.webp",
+        "img": "./img/common/cabin/WWT1.webp",
         "cuprum": 15,
         "iron": 75
     },
     {
         "name": "Docker",
-        "img": "./img/Docker.webp",
+        "img": "./img/common/cabin/Docker.webp",
         "cuprum": 15,
         "iron": 75
     }

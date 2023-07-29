@@ -20,7 +20,7 @@ function onSelect() {
     rarity = getSelectedValue("rarity")
     moduleType = getSelectedValue("moduleType")
     
-    dataFileName = `${rarity}-${moduleType}.json`
+    dataFileName = `${rarity}/${moduleType}.json`
 
     getData(dataFileName, (json) => {
         //alert(json)
