@@ -26,8 +26,17 @@ async function getParams(depencency) {
     
     fileName = parts.join('/') + '.json'
     jsonData = await getData(fileName)
+    
+    if (jsonData === undefined)
+        throw new Error(`File is not found '${fileName}'.`)
 
     object = findObjectByName(jsonData, objectName)
+    
+    if (object === null)
+        throw new Error(`Object '${objectName}' is not found in the file '${fileName}'.`)
+    
+    console.log('getParams returned object =', object)
+
     return object
 }
 

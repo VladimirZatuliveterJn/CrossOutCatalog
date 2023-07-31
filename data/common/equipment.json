@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Bohca",
+        "cuprum": 12,
+        "iron": 60
+    },
+    {
+        "name": "Domkrat",
+        "cuprum": 4,
+        "iron": 20
+    },
+    {
+        "name": "Radio",
+        "cuprum": 4,
+        "iron": 20
+    },
+    {
+        "name": "Rubin",
+        "cuprum": 8,
+        "iron": 35
+    },
+    {
+        "name": "Aviator",
+        "cuprum": 11,
+        "iron": 55
+    },
+    {
+        "name": "Xolodok",
+        "cuprum": 4,
+        "iron": 20
+    }
+]
