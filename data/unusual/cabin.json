@@ -5,16 +5,7 @@
         "iron": 700,
         "dependency": [
             "common/cabin/Sprinter",
-            "common/cabin/Obrez"
-        ]
-    },
-    {
-        "name": "Dalnoboy",
-        "cuprum": 130,
-        "iron": 700,       
-        "dependency": [
-            "common/cabin/Docker",
-            "common/cabin/Sprinter"
+            "common/weapon/Obrez"
         ]
     },
     {
@@ -25,5 +16,15 @@
             "common/cabin/Eger",
             "common/equipment/Rubin"
         ]
+    },
+    {
+        "name": "Dalnoboy",
+        "cuprum": 130,
+        "iron": 700,       
+        "dependency": [
+            "common/cabin/Docker",
+            "common/cabin/Sprinter"
+        ]
     }
+    
 ]   
