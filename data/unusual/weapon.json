@@ -1,0 +1,101 @@
+[   
+    {
+        "name": "Vector",
+        "cuprum": 130,
+        "iron": 650,
+        "dependency": [
+            "common/weapon/Akkord",
+            "common/equipment/Domkrat"
+        ]
+    },
+    {
+        "name": "Koleso_S_Cepamy",
+        "cuprum": 130,
+        "iron": 600,        
+        "dependency": [
+            "common/wheel/KolesoMaloe",
+            "common/wheel/KolesoSrednee"
+        ]
+    },
+    {
+        "name": "Shyna-Ballon",
+        "cuprum": 130,
+        "iron": 600,       
+        "dependency": [
+            "common/wheel/KolesoMaloe",
+            "common/wheel/KolesoSrednee"
+        ]
+    },
+    {
+        "name": "Koleso_Gonochnoe",
+        "cuprum": 130,
+        "iron": 600,
+        "dependency": [
+            "common/wheel/KolesoMaloe",
+            "common/wheel/KolesoSrednee"
+        ]
+    },
+    {
+        "name": "Posadochnoe_Shassi",
+        "cuprum": 130,
+        "iron": 600,        
+        "dependency": [
+            "common/wheel/KolesoMaloe",
+            "common/wheel/KolesoSrednee"
+        ]
+    },
+    {
+        "name": "Koleso_Bolshoe",
+        "cuprum": 130,
+        "iron": 600,       
+        "dependency": [
+            "common/wheel/KolesoMaloe",
+            "common/cabin/WWT1"
+        ]
+    },   
+    {
+        "name": "Koleso_S_Shypamy",
+        "cuprum": 130,
+        "iron": 600,
+        "dependency": [
+            "common/wheel/KolesoMaloe",
+            "common/wheel/KolesoSrednee"
+        ]
+    },
+    {
+        "name": "Koleso_S_Cepamy",
+        "cuprum": 130,
+        "iron": 600,        
+        "dependency": [
+            "common/wheel/KolesoMaloe",
+            "common/wheel/KolesoSrednee"
+        ]
+    },
+    {
+        "name": "Shyna-Ballon",
+        "cuprum": 130,
+        "iron": 600,       
+        "dependency": [
+            "common/wheel/KolesoMaloe",
+            "common/wheel/KolesoSrednee"
+        ]
+    },
+    {
+        "name": "Koleso_Gonochnoe",
+        "cuprum": 130,
+        "iron": 600,
+        "dependency": [
+            "common/wheel/KolesoMaloe",
+            "common/wheel/KolesoSrednee"
+        ]
+    },
+    {
+        "name": "Posadochnoe_Shassi",
+        "cuprum": 130,
+        "iron": 600,        
+        "dependency": [
+            "common/wheel/KolesoMaloe",
+            "common/wheel/KolesoSrednee"
+        ]
+    }
+]

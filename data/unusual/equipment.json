@@ -1,74 +1,74 @@
 [
     {
-        "name": "ToplyvnyBak",
+        "name": "Toplyvny_Bak",
         "cuprum": 130,
         "iron": 650,
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/equipment/Bochka",
+            "common/cabin/Docker"
         ]
     },
     {
-        "name": "Koleso_S_Cepamy",
+        "name": "Sluxach",
         "cuprum": 130,
         "iron": 650,        
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/equipment/Rubin",
+            "common/equipment/Bochka"
         ]
     },
     {
-        "name": "Shyna-Ballon",
+        "name": "Gorizont",
         "cuprum": 130,
         "iron": 650,       
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/equipment/Radio",
+            "common/wheel/Koleso_Maloe"
         ]
     },
     {
-        "name": "Koleso_S_Shypamy",
+        "name": "Genka",
         "cuprum": 130,
         "iron": 700,
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/equipment/Aviator",
+            "common/weapon/Mstitel"
         ]
     },
     {
-        "name": "Koleso_S_Cepamy",
+        "name": "Razgon",
         "cuprum": 130,
         "iron": 650,        
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/equipment/Aviator",
+            "common/equipment/Rubin"
         ]
     },
     {
-        "name": "Shyna-Ballon",
+        "name": "Stuzha",
         "cuprum": 130,
         "iron": 650,       
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/equipment/Xolodok",
+            "common/equipment/Radio"
         ]
     },
     {
-        "name": "Koleso_S_Shypamy",
+        "name": "Taymyr",
         "cuprum": 130,
         "iron": 650,
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/equipment/Xolodok",
+            "common/cabin/Eger"
         ]
     },
     {
-        "name": "Koleso_S_Cepamy",
+        "name": "Boyezapas",
         "cuprum": 130,
         "iron": 650,        
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/equipment/Domkrat",
+            "common/equipment/Radio"
         ]
     }
 
