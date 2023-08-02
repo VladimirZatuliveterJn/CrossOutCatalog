@@ -1,11 +1,4 @@
 
-// function getDataAsync(filePath, onRead)
-// {
-//     fetch(filePath)
-//         .then((response) => response.json())
-//         .then((json) => onRead(json));
-// }
-
 async function getData(filePath)
 {
     const response = await fetch(`./data/${filePath}`);
