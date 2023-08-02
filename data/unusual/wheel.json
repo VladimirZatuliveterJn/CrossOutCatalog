@@ -21,7 +21,7 @@
     },
     {
         "name": "shyna_ballon",
-        "displayName": "Топливный бак",
+        "displayName": "Шина-баллон",
         "cuprum": 130,
         "iron": 600,       
         "dependency": [
@@ -31,7 +31,7 @@
     },
     {
         "name": "koleso_gonochnoe",
-        "displayName": "Топливный бак",
+        "displayName": "Колесо гоночное",
         "cuprum": 130,
         "iron": 600,
         "dependency": [
@@ -41,7 +41,7 @@
     },
     {
         "name": "posadochnoe_shassi",
-        "displayName": "Топливный бак",
+        "displayName": "Посадочное шасси",
         "cuprum": 130,
         "iron": 600,        
         "dependency": [
@@ -51,7 +51,7 @@
     },
     {
         "name": "koleso_bolshoe",
-        "displayName": "Топливный бак",
+        "displayName": "Колесо большое",
         "cuprum": 130,
         "iron": 600,       
         "dependency": [
