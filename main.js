@@ -78,12 +78,12 @@ async function onSelect() {
                 <div class="card-body">
                 <h5 class="card-title">${item.displayName}</h5>
                 <p class="card-text">
-                    <p>Resources:</p>
+                    <p>Ресурсы:</p>
                     <ul>    
-                        <li>Iron: ${item.iron}</li>
-                        <li>Cuprum: ${item.cuprum}</li>                        
+                        <li>Железо: ${item.iron}</li>
+                        <li>Медь: ${item.cuprum}</li>                        
                     </ul>
-                    <p>Depends On:</p>
+                    <p>Зависит от:</p>
                     <ul>   
                         ${item.dependency?.map(e => `<li>${e}</li>`)?.join('')}                                               
                     </ul>                    
