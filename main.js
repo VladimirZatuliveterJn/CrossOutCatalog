@@ -69,6 +69,8 @@ async function onSelect() {
                 params = await getParams(dependency)
                 item.iron += params.iron
                 item.cuprum += params.cuprum
+                item.plastic += params.plastic
+                item.wire += params.wire
             }
         }
 
@@ -81,7 +83,9 @@ async function onSelect() {
                     <p>Ресурсы:</p>
                     <ul>    
                         <li>Железо: ${item.iron}</li>
-                        <li>Медь: ${item.cuprum}</li>                        
+                        <li>Медь: ${item.cuprum}<li>
+                        <li>Пластик: ${item.plastic}</li>
+                        <li>Провода: ${item.wire}<li>                        
                     </ul>
                     <p>Зависит от:</p>
                     <ul>   
