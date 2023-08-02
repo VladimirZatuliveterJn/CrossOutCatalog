@@ -88,8 +88,6 @@ async function onSelect() {
                         ${item.dependency?.map(e => `<li>${e}</li>`)?.join('')}                                               
                     </ul>                    
                 </p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
-                </div>
             </div>
         `            
         cards.innerHTML += cardHtml
