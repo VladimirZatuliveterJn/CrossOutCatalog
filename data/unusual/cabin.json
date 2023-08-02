@@ -1,6 +1,7 @@
 [   
     {
-        "name": "Ryk",
+        "name": "ryk",
+        "displayName": "Рык",
         "cuprum": 130,
         "iron": 700,
         "dependency": [
@@ -9,7 +10,8 @@
         ]
     },
     {
-        "name": "Wyverna",
+        "name": "wyverna",
+        "displayName": "Виверна",
         "cuprum": 130,
         "iron": 700,        
         "dependency": [
@@ -18,7 +20,8 @@
         ]
     },
     {
-        "name": "Dalnoboy",
+        "name": "dalnoboy",
+        "displayName": "Дальнобой",
         "cuprum": 130,
         "iron": 700,       
         "dependency": [
