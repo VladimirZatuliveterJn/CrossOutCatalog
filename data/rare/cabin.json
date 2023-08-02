@@ -1,0 +1,39 @@
+[   
+    {
+        "name": "netopyr",
+        "displayName": "Нетопырь",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/cabin/ryk",
+            "unusual/equipment/genka"
+        ]
+    },
+    {
+        "name": "piligrim",
+        "displayName": "Пилигрим",
+        "cuprum": 100,
+        "iron": 50,        
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/cabin/wyverna",
+            "unusual/weapon/sokol"
+        ]
+    },
+    {
+        "name": "zubodrobitel",
+        "displayName": "Зубодробитель",
+        "cuprum": 100,
+        "iron": 50,       
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/cabin/dalnoboy",
+            "unusual/equipment/sluxach"
+        ]
+    }
+    
+]   
