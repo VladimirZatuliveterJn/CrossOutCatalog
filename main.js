@@ -60,6 +60,11 @@ async function onSelect() {
         
         console.log(item.name, item.dependency)
 
+        item.iron = item.iron ?? 0
+        item.cuprum = item.cuprum ?? 0
+        item.plastic = item.plastic ?? 0
+        item.wire = item.wire ?? 0
+
         if (item.dependency !== undefined)
         {
             for (const dependency of item.dependency)
@@ -67,10 +72,10 @@ async function onSelect() {
                 console.log("dependecny:", dependency)
 
                 params = await getParams(dependency)
-                item.iron += params.iron
-                item.cuprum += params.cuprum
-                item.plastic += params.plastic
-                item.wire += params.wire
+                item.iron += params.iron ?? 0
+                item.cuprum += params.cuprum ?? 0
+                item.plastic += params.plastic ?? 0
+                item.wire += params.wire ?? 0
             }
         }
 
@@ -83,9 +88,9 @@ async function onSelect() {
                     <p>Ресурсы:</p>
                     <ul>    
                         <li>Железо: ${item.iron}</li>
-                        <li>Медь: ${item.cuprum}<li>
+                        <li>Медь: ${item.cuprum}</li>
                         <li>Пластик: ${item.plastic}</li>
-                        <li>Провода: ${item.wire}<li>                        
+                        <li>Провода: ${item.wire}</li>                        
                     </ul>
                     <p>Зависит от:</p>
                     <ul>   
