@@ -1,101 +1,112 @@
 [   
     {
-        "name": "Vector",
+        "name": "vector",
+        "displayName": "Вектор",
         "cuprum": 130,
         "iron": 650,
         "dependency": [
-            "common/weapon/Akkord",
-            "common/equipment/Domkrat"
+            "common/weapon/akkord",
+            "common/equipment/domkrat"
         ]
     },
     {
-        "name": "Koleso_S_Cepamy",
+        "name": "zashitnyk",
+        "displayName": "Защитник",
         "cuprum": 130,
-        "iron": 600,        
+        "iron": 650,        
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/weapon/akkord",
+            "common/equipment/xolodok"
         ]
     },
     {
-        "name": "Shyna-Ballon",
+        "name": "kuvalda",
+        "displayName": "Кувалда",
         "cuprum": 130,
-        "iron": 600,       
+        "iron": 650,       
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/weapon/obrez",
+            "common/equipment/domkrat"
         ]
     },
     {
-        "name": "Koleso_Gonochnoe",
+        "name": "ochag",
+        "displayName": "Очаг",
         "cuprum": 130,
-        "iron": 600,
+        "iron": 650,
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/weapon/obrez",
+            "common/equipment/aviator"
         ]
     },
     {
-        "name": "Posadochnoe_Shassi",
+        "name": "rapira",
+        "displayName": "Рапира",
         "cuprum": 130,
-        "iron": 600,        
+        "iron": 650,        
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/weapon/akkord",
+            "common/equipment/aviator"
         ]
     },
     {
-        "name": "Koleso_Bolshoe",
+        "name": "malysh",
+        "displayName": "Малыш",
         "cuprum": 130,
-        "iron": 600,       
+        "iron": 650,       
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/cabin/WWT1"
+            "common/weapon/mstitel",
+            "common/equipment/bochka"
         ]
     },   
     {
-        "name": "Koleso_S_Shypamy",
+        "name": "sudiya",
+        "displayName": "Судья",
         "cuprum": 130,
-        "iron": 600,
+        "iron": 650,
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/weapon/mstitel",
+            "common/wheel/koleso_srednee"
         ]
     },
     {
-        "name": "Koleso_S_Cepamy",
+        "name": "osa",
+        "displayName": "Оса",
         "cuprum": 130,
-        "iron": 600,        
+        "iron": 650,        
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/weapon/mstitel",
+            "common/equipment/bochka"
         ]
     },
     {
-        "name": "Shyna-Ballon",
+        "name": "bur",
+        "displayName": "Бур",
         "cuprum": 130,
-        "iron": 600,       
+        "iron": 650,       
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/equipment/domkrat",
+            "common/equipment/xolodok"
         ]
     },
     {
-        "name": "Koleso_Gonochnoe",
+        "name": "sokol",
+        "displayName": "Сокол",
         "cuprum": 130,
-        "iron": 600,
+        "iron": 650,
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/weapon/akkord",
+            "common/equipment/rubin"
         ]
     },
     {
-        "name": "Posadochnoe_Shassi",
+        "name": "cobra",
+        "displayName": "Кобра",
         "cuprum": 130,
-        "iron": 600,        
+        "iron": 650,        
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/equipment/radio",
+            "common/weapon/obrez"
         ]
     }
 ]
