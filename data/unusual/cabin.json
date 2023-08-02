@@ -4,8 +4,8 @@
         "cuprum": 130,
         "iron": 700,
         "dependency": [
-            "common/cabin/Sprinter",
-            "common/weapon/Obrez"
+            "common/cabin/sprinter",
+            "common/weapon/obrez"
         ]
     },
     {
@@ -13,8 +13,8 @@
         "cuprum": 130,
         "iron": 700,        
         "dependency": [
-            "common/cabin/Eger",
-            "common/equipment/Rubin"
+            "common/cabin/eger",
+            "common/equipment/rubin"
         ]
     },
     {
@@ -22,8 +22,8 @@
         "cuprum": 130,
         "iron": 700,       
         "dependency": [
-            "common/cabin/Docker",
-            "common/cabin/Sprinter"
+            "common/cabin/docker",
+            "common/cabin/sprinter"
         ]
     }
     

@@ -1,11 +1,13 @@
 [
     {
-        "name": "Koleso_Maloe",
+        "name": "koleso_maloe",
+        "displayName": "Колесо малое",
         "cuprum": 3,
         "iron": 15
     },
     {
-        "name": "Koleso_Srednee",
+        "name": "koleso_srednee",
+        "displayName": "Колесо среднее",
         "cuprum": 3,
         "iron": 15
     }

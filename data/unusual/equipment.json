@@ -1,74 +1,82 @@
 [
     {
-        "name": "Toplyvny_Bak",
+        "name": "bak",
+        "displayName": "Топливный бак",
         "cuprum": 130,
         "iron": 650,
         "dependency": [
-            "common/equipment/Bochka",
-            "common/cabin/Docker"
+            "common/equipment/bochka",
+            "common/cabin/docker"
         ]
     },
     {
-        "name": "Sluxach",
+        "name": "sluxach",
+        "displayName": "Слухач",
         "cuprum": 130,
         "iron": 650,        
         "dependency": [
-            "common/equipment/Rubin",
-            "common/equipment/Bochka"
+            "common/equipment/rubin",
+            "common/equipment/bochka"
         ]
     },
     {
-        "name": "Gorizont",
+        "name": "gorizont",
+        "displayName": "Горизонт",
         "cuprum": 130,
         "iron": 650,       
         "dependency": [
-            "common/equipment/Radio",
-            "common/wheel/Koleso_Maloe"
+            "common/equipment/radio",
+            "common/wheel/koleso_maloe"
         ]
     },
     {
-        "name": "Genka",
+        "name": "genka",
+        "displayName": "Генка",
         "cuprum": 130,
         "iron": 700,
         "dependency": [
-            "common/equipment/Aviator",
-            "common/weapon/Mstitel"
+            "common/equipment/aviator",
+            "common/weapon/mstitel"
         ]
     },
     {
-        "name": "Razgon",
+        "name": "razgon",
+        "displayName": "Разгон",
         "cuprum": 130,
         "iron": 650,        
         "dependency": [
-            "common/equipment/Aviator",
-            "common/equipment/Rubin"
+            "common/equipment/aviator",
+            "common/equipment/rubin"
         ]
     },
     {
-        "name": "Stuzha",
+        "name": "stuzha",
+        "displayName": "Стужа",
         "cuprum": 130,
         "iron": 650,       
         "dependency": [
-            "common/equipment/Xolodok",
-            "common/equipment/Radio"
+            "common/equipment/xolodok",
+            "common/equipment/radio"
         ]
     },
     {
-        "name": "Taymyr",
+        "name": "taymyr",
+        "displayName": "Таймыр",
         "cuprum": 130,
         "iron": 650,
         "dependency": [
-            "common/equipment/Xolodok",
-            "common/cabin/Eger"
+            "common/equipment/xolodok",
+            "common/cabin/eger"
         ]
     },
     {
-        "name": "Boyezapas",
+        "name": "boyezapas",
+        "displayName": "Боезапас",
         "cuprum": 130,
         "iron": 650,        
         "dependency": [
-            "common/equipment/Domkrat",
-            "common/equipment/Radio"
+            "common/equipment/domkrat",
+            "common/equipment/radio"
         ]
     }
 

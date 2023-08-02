@@ -1,56 +1,62 @@
 [   
     {
-        "name": "Koleso_S_Shypamy",
+        "name": "koleso_s_shypamy",
+        "displayName": "Колесо с шипами",
         "cuprum": 130,
         "iron": 600,
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/wheel/koleso_maloe",
+            "common/wheel/koleso_srednee"
         ]
     },
     {
-        "name": "Koleso_S_Cepamy",
+        "name": "koleso_s_cepamy",
+        "displayName": "Колесо с цепями",
         "cuprum": 130,
         "iron": 600,        
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/wheel/koleso_maloe",
+            "common/wheel/koleso_srednee"
         ]
     },
     {
-        "name": "Shyna-Ballon",
+        "name": "shyna_ballon",
+        "displayName": "Топливный бак",
         "cuprum": 130,
         "iron": 600,       
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/wheel/koleso_maloe",
+            "common/wheel/koleso_srednee"
         ]
     },
     {
-        "name": "Koleso_Gonochnoe",
+        "name": "koleso_gonochnoe",
+        "displayName": "Топливный бак",
         "cuprum": 130,
         "iron": 600,
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/wheel/koleso_maloe",
+            "common/wheel/koleso_srednee"
         ]
     },
     {
-        "name": "Posadochnoe_Shassi",
+        "name": "posadochnoe_shassi",
+        "displayName": "Топливный бак",
         "cuprum": 130,
         "iron": 600,        
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/wheel/KolesoSrednee"
+            "common/wheel/koleso_maloe",
+            "common/wheel/koleso_srednee"
         ]
     },
     {
-        "name": "Koleso_Bolshoe",
+        "name": "koleso_bolshoe",
+        "displayName": "Топливный бак",
         "cuprum": 130,
         "iron": 600,       
         "dependency": [
-            "common/wheel/KolesoMaloe",
-            "common/cabin/WWT1"
+            "common/wheel/koleso_maloe",
+            "common/cabin/wwt1"
         ]
     }
     

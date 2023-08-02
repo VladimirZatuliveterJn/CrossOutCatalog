@@ -1,21 +1,25 @@
 [
     {
-        "name": "Sprinter",
+        "name": "sprinter",
+        "displayName": "Спринтер",
         "cuprum": 15,
         "iron": 75
     },
     {
-        "name": "Eger",
+        "name": "eger",
+        "displayName": "Егерь",
         "cuprum": 15,
         "iron": 75
     },
     {
-        "name": "WWT1",
+        "name": "wwt1",
+        "displayName": "WWT1",
         "cuprum": 15,
         "iron": 75
     },
     {
-        "name": "Docker",
+        "name": "docker",
+        "displayName": "Докер",
         "cuprum": 15,
         "iron": 75
     }
