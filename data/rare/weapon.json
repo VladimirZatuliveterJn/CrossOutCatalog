@@ -1,134 +1,111 @@
-[   
+[
     {
-        "name": "xameleon",
-        "displayName": "Хамелеон",
+        "name": "shilo",
+        "displayName": "Шило",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "shell": 450,
+        "dependency": [
+            "unusual/weapon/vector",
+            "unusual/equipment/genka"
+        ]
+    },
+    {
+        "name": "sinus",
+        "displayName": "Синус",
         "cuprum": 100,
         "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/wheel/posadochnoe_shassi",
-            "unusual/equipment/taymyr"
+            "unusual/weapon/vector",
+            "unusual/weapon/rapira"
         ]
     },
     {
-        "name": "okulus",
-        "displayName": "Окулус",
-        "cuprum": 100,
-        "iron": 50,        
-        "plastic": 50,
-        "wire": 100,
-        "dependency": [
-            "unusual/equipment/sluxach",
-            "unusual/equipment/gorizont"
-        ]
-    },
-    {
-        "name": "maxsvel",
-        "displayName": "Максвелл",
-        "cuprum": 100,
-        "iron": 50,       
-        "plastic": 50,
-        "wire": 100,
-        "dependency": [
-            "unusual/wheel/posadochnoe_shassi",
-            "unusual/equipment/gorizont"
-        ]
-    },
-    {
-        "name": "zaryad",
-        "displayName": "Заряд",
+        "name": "goblin",
+        "displayName": "Гоблин",
         "cuprum": 100,
         "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/wheel/koleso_gonochnoe",
-            "unusual/equipment/stuzha"
+            "unusual/weapon/osa",
+            "unusual/weapon/ochag"
         ]
     },
     {
-        "name": "jestcach",
-        "displayName": "Жесткач",
+        "name": "samopal",
+        "displayName": "Самопал",
         "cuprum": 100,
-        "iron": 50,        
+        "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/equipment/razgon",
-            "unusual/equipment/taymyr"
+            "unusual/weapon/kuvalda",
+            "unusual/cabin/ryk"
         ]
     },
     {
-        "name": "rabotyaga",
-        "displayName": "Работяга",
+        "name": "bylava",
+        "displayName": "Булава",
         "cuprum": 100,
-        "iron": 50,       
+        "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/cabin/dalnoboy",
-            "unusual/weapon/malysh"
+            "unusual/weapon/kuvalda",
+            "unusual/weapon/ochag"
         ]
     },
     {
-        "name": "savras",
-        "displayName": "Саврас",
+        "name": "shtorm",
+        "displayName": "Шторм",
         "cuprum": 100,
-        "iron": 50,        
+        "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/wheel/koleso_gonochnoe",
-            "unusual/equipment/stuzha"
+            "unusual/weapon/zashitnyk",
+            "unusual/weapon/rapira"
         ]
     },
     {
-        "name": "genezis",
-        "displayName": "Генезис",
+        "name": "verzila",
+        "displayName": "Верзила",
         "cuprum": 100,
-        "iron": 50,       
+        "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/weapon/sokol",
+            "unusual/weapon/sudiya",
+            "unusual/equipment/bak"
+        ]
+    },
+    {
+        "name": "obvinitel",
+        "displayName": "Обвинитель",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/weapon/sudiya",
             "unusual/equipment/boyezapas"
         ]
     },
     {
-        "name": "lunar",
-        "displayName": "Лунар X2",
+        "name": "sintez",
+        "displayName": "Синтез",
         "cuprum": 100,
         "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/wheel/koleso_gonochnoe",
-            "unusual/wheel/posadochnoe_shassi"
-        ]
-    },
-    {
-        "name": "razval",
-        "displayName": "Развал X2",
-        "cuprum": 200,
-        "iron": 200,        
-        "plastic": 30,
-        "wire": 100,
-        "dependency": [
-            "unusual/wheel/koleso_gonochnoe",
-            "unusual/wheel/shyna_ballon"
-        ]
-    },
-    {
-        "name": "zatochka",
-        "displayName": "Заточка X2",
-        "cuprum": 100,
-        "iron": 50,       
-        "plastic": 50,
-        "wire": 100,
-        "dependency": [
-            "unusual/wheel/koleso_s_shypamy",
-            "unusual/wheel/koleso_s_cepamy"
+            "unusual/weapon/vector",
+            "unusual/cabin/wyverna"
         ]
     },
     {
@@ -147,7 +124,7 @@
         "name": "koleso_bronevika",
         "displayName": "Колесо броневика X2",
         "cuprum": 100,
-        "iron": 50,        
+        "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
@@ -159,7 +136,7 @@
         "name": "koleso_dvoinoe",
         "displayName": "Колесо двойное X2",
         "cuprum": 100,
-        "iron": 50,       
+        "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
@@ -183,7 +160,7 @@
         "name": "koleso_bronevika",
         "displayName": "Колесо броневика X2",
         "cuprum": 100,
-        "iron": 50,        
+        "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
@@ -195,7 +172,7 @@
         "name": "koleso_dvoinoe",
         "displayName": "Колесо двойное X2",
         "cuprum": 100,
-        "iron": 50,       
+        "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
@@ -203,4 +180,4 @@
             "unusual/wheel/shyna_ballon"
         ]
     }
-]  
+]
