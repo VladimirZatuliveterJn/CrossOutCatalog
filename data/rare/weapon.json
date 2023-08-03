@@ -1,0 +1,206 @@
+[   
+    {
+        "name": "xameleon",
+        "displayName": "Хамелеон",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/posadochnoe_shassi",
+            "unusual/equipment/taymyr"
+        ]
+    },
+    {
+        "name": "okulus",
+        "displayName": "Окулус",
+        "cuprum": 100,
+        "iron": 50,        
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/equipment/sluxach",
+            "unusual/equipment/gorizont"
+        ]
+    },
+    {
+        "name": "maxsvel",
+        "displayName": "Максвелл",
+        "cuprum": 100,
+        "iron": 50,       
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/posadochnoe_shassi",
+            "unusual/equipment/gorizont"
+        ]
+    },
+    {
+        "name": "zaryad",
+        "displayName": "Заряд",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_gonochnoe",
+            "unusual/equipment/stuzha"
+        ]
+    },
+    {
+        "name": "jestcach",
+        "displayName": "Жесткач",
+        "cuprum": 100,
+        "iron": 50,        
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/equipment/razgon",
+            "unusual/equipment/taymyr"
+        ]
+    },
+    {
+        "name": "rabotyaga",
+        "displayName": "Работяга",
+        "cuprum": 100,
+        "iron": 50,       
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/cabin/dalnoboy",
+            "unusual/weapon/malysh"
+        ]
+    },
+    {
+        "name": "savras",
+        "displayName": "Саврас",
+        "cuprum": 100,
+        "iron": 50,        
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_gonochnoe",
+            "unusual/equipment/stuzha"
+        ]
+    },
+    {
+        "name": "genezis",
+        "displayName": "Генезис",
+        "cuprum": 100,
+        "iron": 50,       
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/weapon/sokol",
+            "unusual/equipment/boyezapas"
+        ]
+    },
+    {
+        "name": "lunar",
+        "displayName": "Лунар X2",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_gonochnoe",
+            "unusual/wheel/posadochnoe_shassi"
+        ]
+    },
+    {
+        "name": "razval",
+        "displayName": "Развал X2",
+        "cuprum": 200,
+        "iron": 200,        
+        "plastic": 30,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_gonochnoe",
+            "unusual/wheel/shyna_ballon"
+        ]
+    },
+    {
+        "name": "zatochka",
+        "displayName": "Заточка X2",
+        "cuprum": 100,
+        "iron": 50,       
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_s_shypamy",
+            "unusual/wheel/koleso_s_cepamy"
+        ]
+    },
+    {
+        "name": "massiv",
+        "displayName": "Массив X2",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_s_shypamy",
+            "unusual/wheel/koleso_s_cepamy"
+        ]
+    },
+    {
+        "name": "koleso_bronevika",
+        "displayName": "Колесо броневика X2",
+        "cuprum": 100,
+        "iron": 50,        
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_bolshoe",
+            "unusual/wheel/shyna_ballon"
+        ]
+    },
+    {
+        "name": "koleso_dvoinoe",
+        "displayName": "Колесо двойное X2",
+        "cuprum": 100,
+        "iron": 50,       
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_bolshoe",
+            "unusual/wheel/shyna_ballon"
+        ]
+    },
+    {
+        "name": "massiv",
+        "displayName": "Массив X2",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_s_shypamy",
+            "unusual/wheel/koleso_s_cepamy"
+        ]
+    },
+    {
+        "name": "koleso_bronevika",
+        "displayName": "Колесо броневика X2",
+        "cuprum": 100,
+        "iron": 50,        
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_bolshoe",
+            "unusual/wheel/shyna_ballon"
+        ]
+    },
+    {
+        "name": "koleso_dvoinoe",
+        "displayName": "Колесо двойное X2",
+        "cuprum": 100,
+        "iron": 50,       
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_bolshoe",
+            "unusual/wheel/shyna_ballon"
+        ]
+    }
+]  

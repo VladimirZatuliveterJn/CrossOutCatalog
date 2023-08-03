@@ -1,0 +1,111 @@
+[   
+    {
+        "name": "lunar",
+        "displayName": "Лунар X2",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_gonochnoe",
+            "unusual/wheel/posadochnoe_shassi"
+        ]
+    },
+    {
+        "name": "razval",
+        "displayName": "Развал X2",
+        "cuprum": 200,
+        "iron": 200,        
+        "plastic": 30,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_gonochnoe",
+            "unusual/wheel/shyna_ballon"
+        ]
+    },
+    {
+        "name": "zatochka",
+        "displayName": "Заточка X2",
+        "cuprum": 100,
+        "iron": 50,       
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_s_shypamy",
+            "unusual/wheel/koleso_s_cepamy"
+        ]
+    },
+    {
+        "name": "massiv",
+        "displayName": "Массив X2",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_s_shypamy",
+            "unusual/wheel/koleso_s_cepamy"
+        ]
+    },
+    {
+        "name": "koleso_bronevika",
+        "displayName": "Колесо броневика X2",
+        "cuprum": 100,
+        "iron": 50,        
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_bolshoe",
+            "unusual/wheel/shyna_ballon"
+        ]
+    },
+    {
+        "name": "koleso_dvoinoe",
+        "displayName": "Колесо двойное X2",
+        "cuprum": 100,
+        "iron": 50,       
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_bolshoe",
+            "unusual/wheel/shyna_ballon"
+        ]
+    },
+    {
+        "name": "massiv",
+        "displayName": "Массив X2",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_s_shypamy",
+            "unusual/wheel/koleso_s_cepamy"
+        ]
+    },
+    {
+        "name": "koleso_bronevika",
+        "displayName": "Колесо броневика X2",
+        "cuprum": 100,
+        "iron": 50,        
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_bolshoe",
+            "unusual/wheel/shyna_ballon"
+        ]
+    },
+    {
+        "name": "koleso_dvoinoe",
+        "displayName": "Колесо двойное X2",
+        "cuprum": 100,
+        "iron": 50,       
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/wheel/koleso_bolshoe",
+            "unusual/wheel/shyna_ballon"
+        ]
+    }
+    
+]  

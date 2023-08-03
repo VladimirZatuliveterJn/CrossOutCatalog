@@ -1,7 +1,7 @@
 [   
     {
         "name": "koleso_s_shypamy",
-        "displayName": "Колесо с шипами",
+        "displayName": "Колесо с шипами X2",
         "cuprum": 130,
         "iron": 600,
         "dependency": [
@@ -11,7 +11,7 @@
     },
     {
         "name": "koleso_s_cepamy",
-        "displayName": "Колесо с цепями",
+        "displayName": "Колесо с цепями X2",
         "cuprum": 130,
         "iron": 600,        
         "dependency": [
@@ -21,7 +21,7 @@
     },
     {
         "name": "shyna_ballon",
-        "displayName": "Шина-баллон",
+        "displayName": "Шина-баллон X2",
         "cuprum": 130,
         "iron": 600,       
         "dependency": [
@@ -31,7 +31,7 @@
     },
     {
         "name": "koleso_gonochnoe",
-        "displayName": "Колесо гоночное",
+        "displayName": "Колесо гоночное X2",
         "cuprum": 130,
         "iron": 600,
         "dependency": [
@@ -41,7 +41,7 @@
     },
     {
         "name": "posadochnoe_shassi",
-        "displayName": "Посадочное шасси",
+        "displayName": "Посадочное шасси X2",
         "cuprum": 130,
         "iron": 600,        
         "dependency": [
@@ -51,7 +51,7 @@
     },
     {
         "name": "koleso_bolshoe",
-        "displayName": "Колесо большое",
+        "displayName": "Колесо большое X2",
         "cuprum": 130,
         "iron": 600,       
         "dependency": [
