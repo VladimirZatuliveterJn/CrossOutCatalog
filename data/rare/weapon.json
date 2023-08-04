@@ -49,7 +49,7 @@
         ]
     },
     {
-        "name": "bylava",
+        "name": "bulava",
         "displayName": "Булава",
         "cuprum": 100,
         "iron": 50,
@@ -109,75 +109,75 @@
         ]
     },
     {
-        "name": "massiv",
-        "displayName": "Массив X2",
+        "name": "bum",
+        "displayName": "Бум",
         "cuprum": 100,
         "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/wheel/koleso_s_shypamy",
-            "unusual/wheel/koleso_s_cepamy"
+            "unusual/weapon/osa",
+            "unusual/equipment/bak"
         ]
     },
     {
-        "name": "koleso_bronevika",
-        "displayName": "Колесо броневика X2",
+        "name": "cirkularka",
+        "displayName": "Циркулярка",
         "cuprum": 100,
         "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/wheel/koleso_bolshoe",
-            "unusual/wheel/shyna_ballon"
+            "unusual/equipment/razgon",
+            "unusual/weapon/malysh"
         ]
     },
     {
-        "name": "koleso_dvoinoe",
-        "displayName": "Колесо двойное X2",
+        "name": "yastreb",
+        "displayName": "Ястреб",
         "cuprum": 100,
         "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/wheel/koleso_bolshoe",
-            "unusual/wheel/shyna_ballon"
+            "unusual/weapon/sokol",
+            "unusual/equipment/taymyr"
         ]
     },
     {
-        "name": "massiv",
-        "displayName": "Массив X2",
+        "name": "prixvosten",
+        "displayName": "Прихвостень",
         "cuprum": 100,
         "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/wheel/koleso_s_shypamy",
-            "unusual/wheel/koleso_s_cepamy"
+            "unusual/weapon/cobra",
+            "unusual/weapon/bur"
         ]
     },
     {
-        "name": "koleso_bronevika",
-        "displayName": "Колесо броневика X2",
+        "name": "piton",
+        "displayName": "Питон",
         "cuprum": 100,
         "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/wheel/koleso_bolshoe",
-            "unusual/wheel/shyna_ballon"
+            "unusual/weapon/cobra",
+            "unusual/equipment/stuzha"
         ]
     },
     {
-        "name": "koleso_dvoinoe",
-        "displayName": "Колесо двойное X2",
+        "name": "summator",
+        "displayName": "Сумматор",
         "cuprum": 100,
         "iron": 50,
         "plastic": 50,
         "wire": 100,
         "dependency": [
-            "unusual/wheel/koleso_bolshoe",
-            "unusual/wheel/shyna_ballon"
+            "unusual/weapon/zashitnyk",
+            "unusual/weapon/bur"
         ]
     }
 ]
