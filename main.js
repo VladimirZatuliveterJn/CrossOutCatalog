@@ -64,6 +64,7 @@ async function onSelect() {
         item.cuprum = item.cuprum ?? 0
         item.plastic = item.plastic ?? 0
         item.wire = item.wire ?? 0
+        item.shell = item.shell ?? 0
 
         if (item.dependency !== undefined)
         {
@@ -76,6 +77,7 @@ async function onSelect() {
                 item.cuprum += params.cuprum ?? 0
                 item.plastic += params.plastic ?? 0
                 item.wire += params.wire ?? 0
+                item.shell += params.shell ?? 0
             }
         }
 
@@ -90,7 +92,9 @@ async function onSelect() {
                         <li>Железо: ${item.iron}</li>
                         <li>Медь: ${item.cuprum}</li>
                         <li>Пластик: ${item.plastic}</li>
-                        <li>Провода: ${item.wire}</li>                        
+                        <li>Провода: ${item.wire}</li>
+                        <li>Гильзы: ${item.shell}</li>
+
                     </ul>
                     <p>Зависит от:</p>
                     <ul>   
