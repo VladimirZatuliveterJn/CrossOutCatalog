@@ -95,7 +95,7 @@ async function onSelect() {
                         <li>Медь: ${item.cuprum}</li>
                         <li>Пластик: ${item.plastic}</li>
                         <li>Провода: ${item.wire}</li>
-                        <li>Аккумуляторы: ${item.battery}<li>
+                        <li>Аккумуляторы: ${item.battery}</li>
                         <li>Гильзы: ${item.shell}</li>
 
                     </ul>

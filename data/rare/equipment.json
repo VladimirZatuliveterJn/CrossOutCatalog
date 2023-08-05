@@ -43,6 +43,18 @@
         "plastic": 50,
         "wire": 100,
         "dependency": [
+            "unusual/weapon/cobra",
+            "unusual/equipment/gorizont"
+        ]
+    },
+    {
+        "name": "amper",
+        "displayName": "Ампер",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
             "unusual/wheel/koleso_gonochnoe",
             "unusual/equipment/stuzha"
         ]

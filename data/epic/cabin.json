@@ -21,16 +21,16 @@
         "plastic": 100,
         "wire": 200,
         "dependency": [
-            "rare/equipment/sluxach",
-            "rare/equipment/gorizont",
-            "rare/equipment/rabotyaga"
+            "rare/cabin/netopyr",
+            "rare/wheel/zatochka",
+            "rare/weapon/sinus"
         ]
     },
     {
         "name": "oboroten",
         "displayName": "Оборотень",
         "cuprum": 150,
-        "iron": 100,        
+        "iron": 100,
         "plastic": 100,
         "wire": 200,
         "dependency": [
