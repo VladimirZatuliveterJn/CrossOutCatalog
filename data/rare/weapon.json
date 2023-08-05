@@ -121,6 +121,18 @@
         ]
     },
     {
+        "name": "tempura",
+        "displayName": "Темпура",
+        "cuprum": 200,
+        "iron": 200,
+        "plastic": 30,
+        "wire": 100,
+        "dependency": [
+            "unusual/weapon/bur",
+            "unusual/equipment/sluxach"
+        ]
+    },
+    {
         "name": "cirkularka",
         "displayName": "Циркулярка",
         "cuprum": 100,
