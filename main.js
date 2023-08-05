@@ -19,13 +19,14 @@ async function getItemWithChilds(fileName, itemName) {
     if (jsonData === undefined)
         throw new Error(`File is not found '${fileName}'.`)
 
-    item = findObjectByName(jsonData, itemName)
+    originalItem = findObjectByName(jsonData, itemName)
     
-    if (item === null || item === undefined)
+    if (originalItem === null || originalItem === undefined)
         throw new Error(`Object '${itemName}' is not found in the file '${fileName}'.`)
     
-    console.log('findObjectByName returned itemName = ', itemName, ', object =', item)
-
+    //console.log('findObjectByName returned itemName = ', itemName, ', object =', item)
+    const item = { ...originalItem }; // Create a new object to store the accumulated values
+    
     item.iron = item.iron ?? 0
     item.cuprum = item.cuprum ?? 0
     item.plastic = item.plastic ?? 0
@@ -38,12 +39,12 @@ async function getItemWithChilds(fileName, itemName) {
         return item
     }
 
-    for (const dependency of item.dependency)
+    for (const dep of item.dependency)
     {
-        console.log("dependecny:", dependency)
+        console.log("dependecny:", dep)
         
         // example: "common/cabin/eger"
-        let parts = dependency.split('/'); // Split the string by '/'
+        let parts = dep.split('/'); // Split the string by '/'
         objectName = parts.pop(); // Remove the last element from the array
         
         childFileName = parts.join('/') + '.json'
