@@ -2,10 +2,10 @@
     {
         "name": "bigfoot",
         "displayName": "Бигфут X2",
-        "cuprum": 250,
-        "iron": 250,
-        "plastic": 60,
-        "wire": 300,
+        "cuprum": 150,
+        "iron": 200,
+        "plastic": 100,
+        "wire": 200,
         "dependency": [
             "rare/wheel/zatochka",
             "rare/cabin/netopyr",
@@ -28,7 +28,7 @@
     },
     {
         "name": "malaya_gusenica",
-        "displayName": "Малая гусеница",
+        "displayName": "Малая гусеница X2",
         "cuprum": 150,
         "iron": 100,
         "plastic": 100,
@@ -41,81 +41,94 @@
     },
     
     {
-        "name": "kvant",
-        "displayName": "Квант",
+        "name": "gusenica_ucreplennaya",
+        "displayName": "Гусеница укрепленная X2",
         "cuprum": 150,
         "iron": 100,        
         "plastic": 100,
         "wire": 200,
         "dependency": [
-            "rare/cabin/piligrim",
-            "rare/equipment/genezis",
-            "rare/weapon/yastreb"
+            "rare/equipment/amper",
+            "rare/equipment/xameleon",
+            "rare/equipment/savras"
         ]
     },
     {
-        "name": "foton",
-        "displayName": "Фотон",
+        "name": "gusenica_bronirovannaya",
+        "displayName": "Гусеница бронированная",
         "cuprum": 150,
         "iron": 100,        
         "plastic": 100,
         "wire": 200,
         "dependency": [
-            "rare/cabin/piligrim",
-            "rare/weapon/sintez",
-            "rare/weapon/yastreb"
+            "rare/wheel/koleso_dvoinoe",
+            "rare/wheel/koleso_dvoinoe",
+            "rare/equipment/rabotyaga"
         ]
     },
     {
-        "name": "omnibox",
-        "displayName": "Омнибокс",
+        "name": "ikar",
+        "displayName": "Икар",
         "cuprum": 150,
         "iron": 100,        
         "plastic": 100,
         "wire": 200,
         "dependency": [
-            "rare/cabin/piligrim",
-            "rare/wheel/massiv",
-            "rare/cabin/zubodrobitel"
+            "rare/wheel/lunar",
+            "rare/wheel/lunar",
+            "rare/equipment/savras"
         ]
     },
     {
-        "name": "gorbun",
-        "displayName": "Горбун",
+        "name": "mnl",
+        "displayName": "МН-Л",
         "cuprum": 150,
         "iron": 100,        
         "plastic": 100,
         "wire": 200,
         "dependency": [
-            "rare/cabin/zubodrobitel",
+            "rare/weapon/prixvosten",
             "rare/wheel/koleso_bronevika",
             "rare/equipment/rabotyaga"
         ]
     },
     {
-        "name": "bastion",
-        "displayName": "Бастион",
+        "name": "bigramma",
+        "displayName": "Биграмма",
         "cuprum": 150,
         "iron": 100,        
         "plastic": 100,
         "wire": 200,
         "dependency": [
-            "rare/cabin/zubodrobitel",
-            "rare/wheel/koleso_bronevika",
-            "rare/equipment/zaryad"
+            "rare/wheel/massiv",
+            "rare/wheel/massiv",
+            "rare/wheel/koleso_bronevika"
         ]
     },
     {
-        "name": "bastion",
-        "displayName": "Бастион",
-        "cuprum": 150,
-        "iron": 100,        
+        "name": "gerrida",
+        "displayName": "Геррида",
+        "cuprum": 150,        
         "plastic": 100,
         "wire": 200,
+        "battery": 80,
         "dependency": [
-            "rare/cabin/zubodrobitel",
-            "rare/wheel/koleso_bronevika",
-            "rare/equipment/zaryad"
+            "rare/weapon/summator",
+            "rare/weapon/ognevka",
+            "rare/weapon/shilo"
+        ]
+    },
+    {
+        "name": "masorubka",
+        "displayName": "Мясорубка",
+        "cuprum": 150,        
+        "plastic": 100,
+        "wire": 200,
+        "battery": 80,
+        "dependency": [
+            "rare/wheel/zatochka",
+            "rare/wheel/zatochka",
+            "rare/weapon/cirkularka"
         ]
     }
     
