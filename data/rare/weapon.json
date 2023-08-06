@@ -97,6 +97,18 @@
         ]
     },
     {
+        "name": "ognevka",
+        "displayName": "Огневка",
+        "cuprum": 100,
+        "iron": 50,
+        "plastic": 50,
+        "wire": 100,
+        "dependency": [
+            "unusual/weapon/osa",
+            "unusual/wheel/koleso_s_shypamy"
+        ]
+    },
+    {
         "name": "sintez",
         "displayName": "Синтез",
         "cuprum": 100,
