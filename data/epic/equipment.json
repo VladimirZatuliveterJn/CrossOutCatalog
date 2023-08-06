@@ -1,0 +1,134 @@
+[   
+    {
+        "name": "mychitel",
+        "displayName": "Мучитель",
+        "cuprum": 150,
+        "iron": 100,
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/cabin/netopyr",
+            "rare/weapon/samopal",
+            "rare/weapon/yastreb"
+        ]
+    },
+    {
+        "name": "xameleon_dva",
+        "displayName": "Хамелеон Мк2",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/equipment/xameleon",
+            "rare/equipment/maxsvel",
+            "rare/weapon/shtorm"
+        ]
+    },
+    {
+        "name": "verificator",
+        "displayName": "Верификатор",
+        "cuprum": 150,
+        "iron": 100,
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/wheel/massiv",
+            "rare/equipment/okulus",
+            "rare/weapon/prixvosten"
+        ]
+    },
+    
+    {
+        "name": "dopler",
+        "displayName": "Доплер",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/equipment/maxsvel",
+            "rare/equipment/maxsvel",
+            "rare/equipment/xameleon"
+        ]
+    },
+    {
+        "name": "chetkiy",
+        "displayName": "Чуткий",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/equipment/okulus",
+            "rare/wheel/koleso_dvoinoe",
+            "rare/equipment/zaryad"
+        ]
+    },
+    {
+        "name": "neitrino",
+        "displayName": "Нейтрино",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/wheel/lunar",
+            "rare/equipment/genezis",
+            "rare/wheel/koleso_dvoinoe"
+        ]
+    },
+    {
+        "name": "gazgen",
+        "displayName": "Газген",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/weapon/cirkularka",
+            "rare/weapon/goblin",
+            "rare/weapon/bum"
+        ]
+    },
+    {
+        "name": "gonitel",
+        "displayName": "Гонитель",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/cabin/netopyr",
+            "rare/wheel/zatochka",
+            "rare/equipment/jestcach"
+        ]
+    },
+    {
+        "name": "chetkiy",
+        "displayName": "Четкий",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/equipment/jestcach",
+            "rare/weapon/goblin",
+            "rare/weapon/bulava"
+        ]
+    },
+    {
+        "name": "ispolin",
+        "displayName": "Исполин",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/equipment/rabotyaga",
+            "rare/wheel/koleso_dvoinoe",
+            "rare/weapon/verzila"
+        ]
+    }
+    
+]
