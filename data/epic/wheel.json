@@ -2,10 +2,10 @@
     {
         "name": "bigfoot",
         "displayName": "Бигфут X2",
-        "cuprum": 250,
-        "iron": 250,
-        "plastic": 60,
-        "wire": 300,
+        "cuprum": 150,
+        "iron": 200,
+        "plastic": 100,
+        "wire": 200,
         "dependency": [
             "rare/wheel/zatochka",
             "rare/cabin/netopyr",
