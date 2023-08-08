@@ -60,7 +60,7 @@
         "plastic": 100,
         "wire": 200,
         "dependency": [
-            "rare/weapon/obviniel",
+            "rare/weapon/obvinitel",
             "rare/cabin/zubodrobitel",
             "rare/wheel/koleso_bronevika"
         ]
@@ -75,7 +75,7 @@
         "dependency": [
             "rare/weapon/samopal",
             "rare/weapon/samopal",
-            "rare/weapon/obviniel"
+            "rare/weapon/obvinitel"
         ]
     },
     {
@@ -138,7 +138,7 @@
         "plastic": 100,
         "wire": 200,
         "dependency": [
-            "rare/weapon/obviniel",
+            "rare/weapon/obvinitel",
             "rare/wheel/koleso_dvoinoe",
             "rare/equipment/okulus"
         ]
@@ -164,7 +164,7 @@
         "plastic": 100,
         "wire": 200,
         "dependency": [
-            "rare/weapon/obviniel",
+            "rare/weapon/obvinitel",
             "rare/equipment/okulus",
             "rare/weapon/piton"
         ]
@@ -191,7 +191,7 @@
         "plastic": 100,
         "wire": 200,
         "dependency": [
-            "rare/weapon/obviniel",
+            "rare/weapon/obvinitel",
             "rare/equipment/zaryad",
             "rare/weapon/piton"
         ]
@@ -217,7 +217,7 @@
         "plastic": 100,
         "wire": 200,
         "dependency": [
-            "rare/weapon/obviniel",
+            "rare/weapon/obvinitel",
             "rare/weapon/sintez",
             "rare/equipment/genezis"
         ]
