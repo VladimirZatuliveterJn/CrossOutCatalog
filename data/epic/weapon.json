@@ -79,6 +79,137 @@
         ]
     },
     {
+        "name": "grom",
+        "displayName": "Гром",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/weapon/bulava",
+            "rare/weapon/goblin",
+            "rare/weapon/cirkularka"
+        ]
+    },
+    {
+        "name": "razryvatel",
+        "displayName": "Разрыватель",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/weapon/goblin",
+            "rare/equipment/jestcach",
+            "rare/weapon/cirkularka"
+        ]
+    },
+    {
+        "name": "vixr",
+        "displayName": "Вихрь",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/weapon/shtorm",
+            "rare/equipment/xameleon",
+            "rare/weapon/sinus"
+        ]
+    },
+    {
+        "name": "tolstyak",
+        "displayName": "Толстяк",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/weapon/verzila",
+            "rare/weapon/verzila",
+            "rare/wheel/koleso_dvoinoe"
+        ]
+    },
+    {
+        "name": "palach",
+        "displayName": "Палач",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/weapon/obviniel",
+            "rare/wheel/koleso_dvoinoe",
+            "rare/equipment/okulus"
+        ]
+    },
+    {
+        "name": "omni",
+        "displayName": "Омни X2",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/wheel/razval",
+            "rare/wheel/razval",
+            "rare/wheel/koleso_dvoinoe"
+        ]
+    },
+    {
+        "name": "malaya_gusenica",
+        "displayName": "Малая гусеница X2",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/cabin/netopyr",
+            "rare/wheel/zatochka",
+            "rare/equipment/amper"
+        ]
+    },
+    
+    {
+        "name": "gusenica_ucreplennaya",
+        "displayName": "Гусеница укрепленная X2",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/equipment/amper",
+            "rare/equipment/xameleon",
+            "rare/equipment/savras"
+        ]
+    },
+    {
+        "name": "gusenica_bronirovannaya",
+        "displayName": "Гусеница бронированная",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/wheel/koleso_dvoinoe",
+            "rare/wheel/koleso_dvoinoe",
+            "rare/equipment/rabotyaga"
+        ]
+    },
+    {
+        "name": "ikar",
+        "displayName": "Икар",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/wheel/lunar",
+            "rare/wheel/lunar",
+            "rare/equipment/savras"
+        ]
+    },
+    {
         "name": "mnl",
         "displayName": "МН-Л",
         "cuprum": 150,
@@ -107,10 +238,10 @@
     {
         "name": "gerrida",
         "displayName": "Геррида",
-        "cuprum": 150,        
+        "cuprum": 150,
+        "iron": 100,        
         "plastic": 100,
         "wire": 200,
-        "battery": 80,
         "dependency": [
             "rare/weapon/summator",
             "rare/weapon/ognevka",
@@ -120,10 +251,10 @@
     {
         "name": "masorubka",
         "displayName": "Мясорубка",
-        "cuprum": 150,        
+        "cuprum": 150,
+        "iron": 100,        
         "plastic": 100,
         "wire": 200,
-        "battery": 80,
         "dependency": [
             "rare/wheel/zatochka",
             "rare/wheel/zatochka",
@@ -133,10 +264,10 @@
     {
         "name": "bigfoot",
         "displayName": "Бигфут X2",
-        "cuprum": 250,
-        "iron": 250,
-        "plastic": 60,
-        "wire": 300,
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
         "dependency": [
             "rare/wheel/zatochka",
             "rare/cabin/netopyr",
@@ -146,11 +277,10 @@
     {
         "name": "omni",
         "displayName": "Омни X2",
-        "cuprum": 250,
-        "iron": 250,        
-        "plastic": 60,
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
         "wire": 200,
-        "battery": 100,
         "dependency": [
             "rare/wheel/razval",
             "rare/wheel/razval",
@@ -239,10 +369,10 @@
     {
         "name": "gerrida",
         "displayName": "Геррида",
-        "cuprum": 150,        
+        "cuprum": 150,
+        "iron": 100,        
         "plastic": 100,
         "wire": 200,
-        "battery": 80,
         "dependency": [
             "rare/weapon/summator",
             "rare/weapon/ognevka",
@@ -252,142 +382,10 @@
     {
         "name": "masorubka",
         "displayName": "Мясорубка",
-        "cuprum": 150,        
-        "plastic": 100,
-        "wire": 200,
-        "battery": 80,
-        "dependency": [
-            "rare/wheel/zatochka",
-            "rare/wheel/zatochka",
-            "rare/weapon/cirkularka"
-        ]
-    },
-    {
-        "name": "bigfoot",
-        "displayName": "Бигфут X2",
-        "cuprum": 250,
-        "iron": 250,
-        "plastic": 60,
-        "wire": 300,
-        "dependency": [
-            "rare/wheel/zatochka",
-            "rare/cabin/netopyr",
-            "rare/wheel/koleso_dvoinoe"
-        ]
-    },
-    {
-        "name": "omni",
-        "displayName": "Омни X2",
-        "cuprum": 250,
-        "iron": 250,        
-        "plastic": 60,
-        "wire": 200,
-        "battery": 100,
-        "dependency": [
-            "rare/wheel/razval",
-            "rare/wheel/razval",
-            "rare/wheel/koleso_dvoinoe"
-        ]
-    },
-    {
-        "name": "malaya_gusenica",
-        "displayName": "Малая гусеница X2",
-        "cuprum": 150,
-        "iron": 100,
-        "plastic": 100,
-        "wire": 200,
-        "dependency": [
-            "rare/cabin/netopyr",
-            "rare/wheel/zatochka",
-            "rare/equipment/amper"
-        ]
-    },
-    
-    {
-        "name": "gusenica_ucreplennaya",
-        "displayName": "Гусеница укрепленная X2",
         "cuprum": 150,
         "iron": 100,        
         "plastic": 100,
         "wire": 200,
-        "dependency": [
-            "rare/equipment/amper",
-            "rare/equipment/xameleon",
-            "rare/equipment/savras"
-        ]
-    },
-    {
-        "name": "gusenica_bronirovannaya",
-        "displayName": "Гусеница бронированная",
-        "cuprum": 150,
-        "iron": 100,        
-        "plastic": 100,
-        "wire": 200,
-        "dependency": [
-            "rare/wheel/koleso_dvoinoe",
-            "rare/wheel/koleso_dvoinoe",
-            "rare/equipment/rabotyaga"
-        ]
-    },
-    {
-        "name": "ikar",
-        "displayName": "Икар",
-        "cuprum": 150,
-        "iron": 100,        
-        "plastic": 100,
-        "wire": 200,
-        "dependency": [
-            "rare/wheel/lunar",
-            "rare/wheel/lunar",
-            "rare/equipment/savras"
-        ]
-    },
-    {
-        "name": "mnl",
-        "displayName": "МН-Л",
-        "cuprum": 150,
-        "iron": 100,        
-        "plastic": 100,
-        "wire": 200,
-        "dependency": [
-            "rare/weapon/prixvosten",
-            "rare/wheel/koleso_bronevika",
-            "rare/equipment/rabotyaga"
-        ]
-    },
-    {
-        "name": "bigramma",
-        "displayName": "Биграмма",
-        "cuprum": 150,
-        "iron": 100,        
-        "plastic": 100,
-        "wire": 200,
-        "dependency": [
-            "rare/wheel/massiv",
-            "rare/wheel/massiv",
-            "rare/wheel/koleso_bronevika"
-        ]
-    },
-    {
-        "name": "gerrida",
-        "displayName": "Геррида",
-        "cuprum": 150,        
-        "plastic": 100,
-        "wire": 200,
-        "battery": 80,
-        "dependency": [
-            "rare/weapon/summator",
-            "rare/weapon/ognevka",
-            "rare/weapon/shilo"
-        ]
-    },
-    {
-        "name": "masorubka",
-        "displayName": "Мясорубка",
-        "cuprum": 150,        
-        "plastic": 100,
-        "wire": 200,
-        "battery": 80,
         "dependency": [
             "rare/wheel/zatochka",
             "rare/wheel/zatochka",
@@ -397,10 +395,10 @@
     {
         "name": "masorubka",
         "displayName": "Мясорубка",
-        "cuprum": 150,        
+        "cuprum": 150,
+        "iron": 100,        
         "plastic": 100,
         "wire": 200,
-        "battery": 80,
         "dependency": [
             "rare/wheel/zatochka",
             "rare/wheel/zatochka",
