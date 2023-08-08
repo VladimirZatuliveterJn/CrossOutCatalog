@@ -129,6 +129,70 @@
             "rare/wheel/koleso_dvoinoe",
             "rare/weapon/verzila"
         ]
-    }
-    
+    },
+    {
+        "name": "gepard",
+        "displayName": "Гепард",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/equipment/savras",
+            "rare/equipment/xameleon",
+            "rare/weapon/shtorm"
+        ]
+    },
+    {
+        "name": "germes",
+        "displayName": "Гермес",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/equipment/jestcach",
+            "rare/weapon/bum",
+            "rare/weapon/cirkularka"
+        ]
+    },
+    {
+        "name": "nerpa",
+        "displayName": "Нерпа",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/equipment/amper",
+            "rare/equipment/maxsvel",
+            "rare/equipment/savras"
+        ]
+    },
+    {
+        "name": "oznob",
+        "displayName": "Озноб",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/weapon/cirkularka",
+            "rare/weapon/bulava",
+            "rare/equipment/jestcach"
+        ]
+    },
+    {
+        "name": "boezapas_uvelichennue",
+        "displayName": "Боезапас увеличенный",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/equipment/okulus",
+            "rare/equipment/zaryad",
+            "rare/weapon/obvinitel"
+        ]
+    }      
 ]
