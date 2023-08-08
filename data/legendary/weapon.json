@@ -1,0 +1,357 @@
+[   
+    {
+        "name": "chert",
+        "displayName": "Черт",
+        "cuprum": 1350,
+        "iron": 1350,        
+        "plastic": 100,
+        "wire": 200,
+        "battery": 800,
+        "electronic": 800,
+        "shell": 900,
+        "dependency": [
+            "epic/weapon/egoza",
+            "epic/weapon/egoza",
+            "epic/equipment/ispolin",
+            "epic/equipment/ispolin",
+            "epic/wheel/bigfoot"
+        ]
+    },
+    {
+        "name": "aspect",
+        "displayName": "Аспект",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/spectr",
+            "epic/weapon/spectr",
+            "epic/wheel/malaya_gusenica",
+            "epic/wheel/malaya_gusenica",
+            "epic/equipment/chutkiy"
+        ]
+    },
+    {
+        "name": "arbitr",
+        "displayName": "Арбитр",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/uravnitel",
+            "epic/weapon/uravnitel",
+            "epic/weapon/anakonda",
+            "epic/weapon/anakonda",
+            "epic/equipment/gazgen"
+        ]
+    },
+    
+    {
+        "name": "jnec",
+        "displayName": "Жнец",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/vixr",
+            "epic/weapon/vixr",
+            "epic/equipment/chetkiy",
+            "epic/equipment/chetkiy",
+            "epic/wheel/gusenica_bronirovannaya"
+        ]
+    },
+    {
+        "name": "nidheg",
+        "displayName": "Нидхёгг",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/fafnir",
+            "epic/weapon/fafnir",
+            "epic/weapon/sverchok",
+            "epic/weapon/sverchok",
+            "epic/cabin/bastion"
+        ]
+    },
+    {
+        "name": "molotoboy",
+        "displayName": "Нейтрино",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/grom",
+            "epic/weapon/grom",
+            "epic/equipment/gepard",
+            "epic/equipment/gepard",
+            "epic/equipment/chutkiy"
+        ]
+    },
+    {
+        "name": "gazgen",
+        "displayName": "Газген",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/cirkularka",
+            "epic/weapon/goblin",
+            "epic/weapon/bum"
+        ]
+    },
+    {
+        "name": "gonitel",
+        "displayName": "Гонитель",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/cabin/netopyr",
+            "epic/wheel/zatochka",
+            "epic/equipment/jestcach"
+        ]
+    },
+    {
+        "name": "chetkiy",
+        "displayName": "Четкий",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/jestcach",
+            "epic/weapon/goblin",
+            "epic/weapon/bulava"
+        ]
+    },
+    {
+        "name": "ispolin",
+        "displayName": "Исполин",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/rabotyaga",
+            "epic/wheel/koleso_dvoinoe",
+            "epic/weapon/verzila"
+        ]
+    },
+    {
+        "name": "gepard",
+        "displayName": "Гепард",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/savras",
+            "epic/equipment/xameleon",
+            "epic/weapon/shtorm"
+        ]
+    },
+    {
+        "name": "germes",
+        "displayName": "Гермес",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/jestcach",
+            "epic/weapon/bum",
+            "epic/weapon/cirkularka"
+        ]
+    },
+    {
+        "name": "nerpa",
+        "displayName": "Нерпа",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/amper",
+            "epic/equipment/maxsvel",
+            "epic/equipment/savras"
+        ]
+    },
+    {
+        "name": "oznob",
+        "displayName": "Озноб",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/cirkularka",
+            "epic/weapon/bulava",
+            "epic/equipment/jestcach"
+        ]
+    },
+    {
+        "name": "boezapas_uvelichennue",
+        "displayName": "Боезапас увеличенный",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/okulus",
+            "epic/equipment/zaryad",
+            "epic/weapon/obvinitel"
+        ]
+    },
+    {
+        "name": "mychitel",
+        "displayName": "Мучитель",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/cabin/netopyr",
+            "epic/weapon/samopal",
+            "epic/weapon/yastreb"
+        ]
+    },
+    {
+        "name": "xameleon_dva",
+        "displayName": "Хамелеон Мк2",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/xameleon",
+            "epic/equipment/maxsvel",
+            "epic/weapon/shtorm"
+        ]
+    },
+    {
+        "name": "verificator",
+        "displayName": "Верификатор",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/wheel/massiv",
+            "epic/equipment/okulus",
+            "epic/weapon/prixvosten"
+        ]
+    },
+    
+    {
+        "name": "dopler",
+        "displayName": "Доплер",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/maxsvel",
+            "epic/equipment/maxsvel",
+            "epic/equipment/xameleon"
+        ]
+    },
+    {
+        "name": "chetkiy",
+        "displayName": "Чуткий",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/okulus",
+            "epic/wheel/koleso_dvoinoe",
+            "epic/equipment/zaryad"
+        ]
+    },
+    {
+        "name": "neitrino",
+        "displayName": "Нейтрино",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/wheel/lunar",
+            "epic/equipment/genezis",
+            "epic/wheel/koleso_dvoinoe"
+        ]
+    },
+    {
+        "name": "gazgen",
+        "displayName": "Газген",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/cirkularka",
+            "epic/weapon/goblin",
+            "epic/weapon/bum"
+        ]
+    },
+    {
+        "name": "gonitel",
+        "displayName": "Гонитель",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/cabin/netopyr",
+            "epic/wheel/zatochka",
+            "epic/equipment/jestcach"
+        ]
+    },
+    {
+        "name": "chetkiy",
+        "displayName": "Четкий",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/jestcach",
+            "epic/weapon/goblin",
+            "epic/weapon/bulava"
+        ]
+    },
+    {
+        "name": "ispolin",
+        "displayName": "Исполин",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/rabotyaga",
+            "epic/wheel/koleso_dvoinoe",
+            "epic/weapon/verzila"
+        ]
+    },
+    {
+        "name": "gepard",
+        "displayName": "Гепард",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/savras",
+            "epic/equipment/xameleon",
+            "epic/weapon/shtorm"
+        ]
+    }      
+]

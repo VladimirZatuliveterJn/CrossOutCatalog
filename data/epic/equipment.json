@@ -1,6 +1,6 @@
 [   
     {
-        "name": "mychitel",
+        "name": "muchitel",
         "displayName": "Мучитель",
         "cuprum": 150,
         "iron": 100,
@@ -53,7 +53,7 @@
         ]
     },
     {
-        "name": "chetkiy",
+        "name": "chutkiy",
         "displayName": "Чуткий",
         "cuprum": 150,
         "iron": 100,        

@@ -1,0 +1,63 @@
+[
+    {
+        "name": "arbitr",
+        "displayName": "Арбитр",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/uravnitel",
+            "epic/weapon/uravnitel",
+            "epic/weapon/anakonda",
+            "epic/weapon/anakonda",
+            "epic/equipment/gazgen"
+        ]
+    },
+    
+    {
+        "name": "jnec",
+        "displayName": "Жнец",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/vixr",
+            "epic/weapon/vixr",
+            "epic/equipment/chetkiy",
+            "epic/equipment/chetkiy",
+            "epic/wheel/gusenica_bronirovannaya"
+        ]
+    },
+    {
+        "name": "nidheg",
+        "displayName": "Нидхёгг",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/fafnir",
+            "epic/weapon/fafnir",
+            "epic/weapon/sverchok",
+            "epic/weapon/sverchok",
+            "epic/cabin/bastion"
+        ]
+    },
+    {
+        "name": "molotoboy",
+        "displayName": "Нейтрино",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/grom",
+            "epic/weapon/grom",
+            "epic/equipment/gepard",
+            "epic/equipment/gepard",
+            "epic/equipment/chutkiy"
+        ]
+    }
+]
