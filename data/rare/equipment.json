@@ -36,6 +36,18 @@
         ]
     },
     {
+        "name": "zenica",
+        "displayName": "Зеница",
+        "cuprum": 600,
+        "iron": 450,       
+        "plastic": 50,
+        "wire": 200,
+        "dependency": [
+            "unusual/equipment/gorizont",
+            "unusual/equipment/sluxach"
+        ]
+    },
+    {
         "name": "zaryad",
         "displayName": "Заряд",
         "cuprum": 100,

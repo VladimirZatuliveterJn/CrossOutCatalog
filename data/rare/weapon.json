@@ -73,6 +73,18 @@
         ]
     },
     {
+        "name": "bura",
+        "displayName": "Буря",
+        "cuprum": 200,
+        "iron": 200,
+        "plastic": 30,
+        "wire": 100,
+        "dependency": [
+            "unusual/weapon/rapira",
+            "unusual/wheel/koleso_s_cepamy"
+        ]
+    },
+    {
         "name": "verzila",
         "displayName": "Верзила",
         "cuprum": 100,
