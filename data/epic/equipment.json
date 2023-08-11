@@ -13,6 +13,20 @@
         ]
     },
     {
+        "name": "obereg",
+        "displayName": "Оберег",
+        "cuprum": 250,
+        "iron": 250,
+        "plastic": 60,
+        "wire": 200,
+        "battery": 100,
+        "dependency": [
+            "rare/weapon/opekun",
+            "rare/equipment/xameleon",
+            "rare/wheel/koleso_bronevika"
+        ]
+    },
+    {
         "name": "xameleon_dva",
         "displayName": "Хамелеон Мк2",
         "cuprum": 150,
@@ -23,6 +37,20 @@
             "rare/equipment/xameleon",
             "rare/equipment/maxsvel",
             "rare/weapon/shtorm"
+        ]
+    },
+    {
+        "name": "maxovik",
+        "displayName": "Маховик",
+        "cuprum":250,
+        "iron": 250,        
+        "plastic": 60,
+        "wire": 200,
+        "battery": 100,
+        "dependency": [
+            "rare/equipment/razryadnik",
+            "rare/equipment/rabotyaga",
+            "rare/equipment/okulus"
         ]
     },
     {

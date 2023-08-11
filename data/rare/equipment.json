@@ -12,6 +12,18 @@
         ]
     },
     {
+        "name": "razryadnik",
+        "displayName": "Разрядник",
+        "cuprum": 200,
+        "iron": 200,
+        "plastic": 30,
+        "wire": 100,
+        "dependency": [
+            "unusual/equipment/taymyr",
+            "unusual/cabin/dalnoboy"
+        ]
+    },
+    {
         "name": "okulus",
         "displayName": "Окулус",
         "cuprum": 100,

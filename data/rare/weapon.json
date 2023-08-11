@@ -1,5 +1,17 @@
 [
     {
+        "name": "opekun",
+        "displayName": "Опекун",
+        "cuprum": 200,
+        "iron": 200,
+        "plastic": 30,
+        "wire": 100,
+        "dependency": [
+            "unusual/weapon/zashitnyk",
+            "unusual/weapon/ochag"
+        ]
+    },
+    {
         "name": "shilo",
         "displayName": "Шило",
         "cuprum": 100,

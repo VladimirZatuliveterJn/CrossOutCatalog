@@ -206,192 +206,177 @@
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
+            "epic/weapon/prometey",
+            "epic/weapon/prometey",
+            "epic/equipment/muchitel",
+            "epic/equipment/muchitel",
+            "epic/wheel/mnl"
         ]
     },
     {
-        "name": "boezapas_uvelichennue",
-        "displayName": "Боезапас увеличенный",
+        "name": "iskra",
+        "displayName": "Искра",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
+            "epic/weapon/avrora",
+            "epic/weapon/avrora",
+            "epic/equipment/oznob",
+            "epic/equipment/oznob",
+            "epic/weapon/feniks"   
         ]
     },
     {
-        "name": "mychitel",
-        "displayName": "Мучитель",
+        "name": "assembler",
+        "displayName": "Ассемблер",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
+            "epic/weapon/blockcheyn",
+            "epic/weapon/blockcheyn",
+            "epic/wheel/bigramma",
+            "epic/wheel/bigramma",
+            "epic/equipment/verificator"
         ]
     },
     {
-        "name": "xameleon_dva",
-        "displayName": "Хамелеон Мк2",
+        "name": "kombain",
+        "displayName": "Комбайн",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
+            "epic/weapon/terzatel",
+            "epic/weapon/terzatel",
+            "epic/equipment/boezapas_uvelichennue",
+            "epic/equipment/boezapas_uvelichennue",
+            "epic/equipment/nerpa"
         ]
     },
     {
-        "name": "verificator",
-        "displayName": "Верификатор",
+        "name": "xaribda",
+        "displayName": "Харибда",
         "cuprum": 750,
-        "iron": 100,
+        "wire": 600,
         "battery": 750,
-        "electronic": 750,
+        "electronic": 600,
         "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
+            "epic/wheel/gerrida",
+            "epic/wheel/gerrida",
+            "epic/equipment/obereg",
+            "epic/equipment/obereg",
+            "epic/weapon/egoza"
         ]
     },
     
     {
-        "name": "dopler",
-        "displayName": "Доплер",
+        "name": "gorynych",
+        "displayName": "Горыныч",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
+            "epic/cabin/oboroten",
+            "epic/cabin/oboroten",
+            "epic/weapon/zapal",
+            "epic/weapon/zapal",
+            "epic/cabin/foton"
         ]
     },
     {
-        "name": "chetkiy",
-        "displayName": "Чуткий",
+        "name": "mandragora",
+        "displayName": "Мандрагога",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
+            "epic/cabin/gorbun",
+            "epic/cabin/gorbun",
+            "epic/weapon/palach",
+            "epic/weapon/palach",
+            "epic/weapon/shkyroder"
         ]
     },
     {
-        "name": "neitrino",
-        "displayName": "Нейтрино",
+        "name": "dzybokko",
+        "displayName": "Дзюбокко",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
+            "epic/weapon/yaoguay",
+            "epic/weapon/yaoguay",
+            "epic/cabin/djanabi",
+            "epic/cabin/djanabi",
+            "epic/weapon/prosvetlenie"
         ]
     },
     {
-        "name": "gazgen",
-        "displayName": "Газген",
+        "name": "fortuna",
+        "displayName": "Фортуна",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
+            "epic/weapon/ispepelitel",
+            "epic/weapon/ispepelitel",
+            "epic/equipment/neitrino",
+            "epic/equipment/neitrino",
+            "epic/equipment/nerpa"
         ]
     },
     {
-        "name": "gonitel",
-        "displayName": "Гонитель",
+        "name": "annigilyator",
+        "displayName": "Аннигилятор",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
+            "epic/weapon/trigger",
+            "epic/weapon/trigger",
+            "epic/cabin/omnibox",
+            "epic/cabin/omnibox",
+            "epic/equipment/verificator"
         ]
     },
     {
-        "name": "chetkiy",
-        "displayName": "Четкий",
+        "name": "kaidzy",
+        "displayName": "Кайдзю",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
+            "epic/weapon/prosvetlenie",
+            "epic/weapon/prosvetlenie",
+            "epic/weapon/yaoguay",
+            "epic/weapon/yaoguay",
+            "epic/cabin/djanabi"
         ]
     },
     {
-        "name": "ispolin",
-        "displayName": "Исполин",
+        "name": "tirs",
+        "displayName": "Тирс",
         "cuprum": 750,
-        "iron": 100,
+        "wire": 600,
         "battery": 750,
-        "electronic": 750,
+        "electronic": 600,
         "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
+            "epic/wheel/gerrida",
+            "epic/wheel/gerrida",
+            "epic/equipment/maxovik",
+            "epic/equipment/maxovik",
+            "epic/equipment/muchitel"
         ]
-    },
-    {
-        "name": "gepard",
-        "displayName": "Гепард",
-        "cuprum": 750,
-        "iron": 100,
-        "battery": 750,
-        "electronic": 750,
-        "dependency": [
-            "epic/weapon/tolstyak",
-            "epic/weapon/tolstyak",
-            "epic/equipment/germes",
-            "epic/equipment/germes",
-            "epic/wheel/gusenica_ucreplennaya"
-        ]
-    }      
+    }     
 ]
