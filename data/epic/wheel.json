@@ -1,5 +1,18 @@
 [   
     {
+        "name": "zatvornik",
+        "displayName": "Затворник X2",
+        "cuprum": 150,
+        "iron": 200,
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/weapon/cirkularka",
+            "rare/weapon/goblin",
+            "rare/weapon/bum"
+        ]
+    },
+    {
         "name": "bigfoot",
         "displayName": "Бигфут X2",
         "cuprum": 150,

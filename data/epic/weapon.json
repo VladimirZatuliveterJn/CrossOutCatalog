@@ -182,7 +182,19 @@
             "rare/weapon/piton"
         ]
     },
-    
+    {
+        "name": "gnezdo",
+        "displayName": "Гнездо",
+        "cuprum": 150,
+        "iron": 100,        
+        "plastic": 100,
+        "wire": 200,
+        "dependency": [
+            "rare/weapon/verzila",
+            "rare/equipment/zaryad",
+            "rare/weapon/piton"
+        ]
+    },   
     {
         "name": "klarnet",
         "displayName": "Кларнет",

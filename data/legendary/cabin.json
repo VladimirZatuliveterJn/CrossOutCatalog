@@ -15,6 +15,21 @@
         ]
     },
     {
+        "name": "sozercatel",
+        "displayName": "Созерцатель",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/equipment/xameleon_dva",
+            "epic/equipment/xameleon_dva",
+            "epic/wheel/zatvornik",
+            "epic/wheel/zatvornik",
+            "epic/weapon/gnezdo"
+        ]
+    },
+    {
         "name": "yokodzuna",
         "displayName": "Ёкодзуна",
         "cuprum": 750,
