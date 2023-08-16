@@ -197,6 +197,20 @@
         ]
     },
     {
+        "name": "drobitel",
+        "displayName": "Дробитель",
+        "cuprum": 250,
+        "iron": 250,        
+        "plastic": 60,
+        "wire": 200,
+        "battery": 100,
+        "dependency": [
+            "rare/weapon/shtorm",
+            "rare/equipment/savras",
+            "rare/equipment/maxsvel"
+        ]
+    },
+    {
         "name": "impuls",
         "displayName": "Импульс",
         "cuprum": 150,

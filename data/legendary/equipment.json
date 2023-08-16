@@ -1,63 +1,48 @@
 [
     {
-        "name": "arbitr",
-        "displayName": "Арбитр",
+        "name": "egida_praim",
+        "displayName": "Эгида-Прайм",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/uravnitel",
-            "epic/weapon/uravnitel",
-            "epic/weapon/anakonda",
-            "epic/weapon/anakonda",
-            "epic/equipment/gazgen"
+            "epic/weapon/baryer",
+            "epic/weapon/baryer",
+            "epic/equipment/xameleon_dva",
+            "epic/equipment/xameleon_dva",
+            "epic/wheel/masorubka"
         ]
     },
     
     {
-        "name": "jnec",
-        "displayName": "Жнец",
+        "name": "apollon",
+        "displayName": "Аполлон",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/vixr",
-            "epic/weapon/vixr",
-            "epic/equipment/chetkiy",
-            "epic/equipment/chetkiy",
-            "epic/wheel/gusenica_bronirovannaya"
+            "epic/cabin/kvant",
+            "epic/cabin/kvant",
+            "epic/wheel/bigfoot",
+            "epic/wheel/bigfoot",
+            "epic/equipment/gazgen"
         ]
     },
     {
-        "name": "nidheg",
-        "displayName": "Нидхёгг",
+        "name": "pegas",
+        "displayName": "Пегас",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/fafnir",
-            "epic/weapon/fafnir",
-            "epic/weapon/sverchok",
-            "epic/weapon/sverchok",
-            "epic/cabin/bastion"
-        ]
-    },
-    {
-        "name": "molotoboy",
-        "displayName": "Нейтрино",
-        "cuprum": 750,
-        "iron": 100,
-        "battery": 750,
-        "electronic": 750,
-        "dependency": [
-            "epic/weapon/grom",
-            "epic/weapon/grom",
-            "epic/equipment/gepard",
-            "epic/equipment/gepard",
-            "epic/equipment/chutkiy"
+            "epic/wheel/gerrida",
+            "epic/wheel/gerrida",
+            "epic/weapon/drobitel",
+            "epic/weapon/drobitel",
+            "epic/equipment/chetkiy"
         ]
     }
 ]

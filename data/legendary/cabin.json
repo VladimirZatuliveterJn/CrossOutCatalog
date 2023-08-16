@@ -1,32 +1,32 @@
 [
     {
-        "name": "arbitr",
-        "displayName": "Арбитр",
+        "name": "kronos",
+        "displayName": "Кронос",
         "cuprum": 750,
-        "iron": 100,
+        "wire": 600,
         "battery": 750,
-        "electronic": 750,
+        "electronic": 600,
         "dependency": [
-            "epic/weapon/uravnitel",
-            "epic/weapon/uravnitel",
-            "epic/weapon/anakonda",
-            "epic/weapon/anakonda",
-            "epic/equipment/gazgen"
+            "epic/wheel/gerrida",
+            "epic/wheel/gerrida",
+            "epic/equipment/butstrep",
+            "epic/equipment/butstrep",
+            "epic/cabin/kvant"
         ]
     },
     {
-        "name": "arbitr",
-        "displayName": "Арбитр",
+        "name": "yokodzuna",
+        "displayName": "Ёкодзуна",
         "cuprum": 750,
         "iron": 100,
         "battery": 750,
         "electronic": 750,
         "dependency": [
-            "epic/weapon/uravnitel",
-            "epic/weapon/uravnitel",
-            "epic/weapon/anakonda",
-            "epic/weapon/anakonda",
-            "epic/equipment/gazgen"
+            "epic/cabin/djanabi",
+            "epic/cabin/djanabi",
+            "epic/weapon/prosvetlenie",
+            "epic/weapon/prosvetlenie",
+            "epic/weapon/yaoguay"
         ]
     }
 ]

@@ -107,6 +107,20 @@
         ]
     },
     {
+        "name": "butstrep",
+        "displayName": "Бутстреп",
+        "cuprum": 350,
+        "iron": 250,        
+        "plastic": 60,
+        "wire": 200,
+        "battery": 100,
+        "dependency": [
+            "rare/equipment/zaryad",
+            "rare/equipment/jestcach",
+            "rare/wheel/massiv"
+        ]
+    },
+    {
         "name": "gazgen",
         "displayName": "Газген",
         "cuprum": 150,
