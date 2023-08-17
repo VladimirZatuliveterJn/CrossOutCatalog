@@ -1,0 +1,136 @@
+[
+    {
+        "name": "karatel",
+        "displayName": "Каратель",
+        "cuprum": 1000,
+        "battery": 1000,
+        "electronic": 1000,
+        "uran": 600,
+        "dependency": [
+            "legendary/weapon/aspect",
+            "legendary/weapon/smerch"
+        ]
+    },
+    {
+        "name": "yormungand",
+        "displayName": "Ёрмунганд",
+        "cuprum": 1000,
+        "battery": 1000,
+        "electronic": 1000,
+        "uran": 600,
+        "dependency": [
+            "legendary/weapon/nidheg",
+            "legendary/weapon/helios"
+        ]
+    },
+    {
+        "name": "krushitel",
+        "displayName": "Крушитель",
+        "cuprum": 1000,
+        "battery": 1000,
+        "electronic": 1000,
+        "uran": 600,
+        "dependency": [
+            "legendary/weapon/molotoboy",
+            "legendary/weapon/fortuna"
+        ]
+    },
+    {
+        "name": "mastodont",
+        "displayName": "Мастодонт",
+        "cuprum": 1000,
+        "battery": 1000,
+        "electronic": 1000,
+        "uran": 600,
+        "dependency": [
+            "legendary/weapon/mamont",
+            "legendary/weapon/nidheg"
+        ]
+    },
+    {
+        "name": "taifun",
+        "displayName": "Тайфун",
+        "cuprum": 1000,
+        "battery": 1000,
+        "electronic": 1000,
+        "uran": 600,
+        "dependency": [
+            "legendary/weapon/tsunami",
+            "legendary/weapon/mandragora"
+        ]
+    },
+    {
+        "name": "gelicon",
+        "displayName": "Геликон",
+        "cuprum": 500,
+        "battery": 500,
+        "electronic": 500,
+        "uran": 300,
+        "dependency": [
+            "legendary/equipment/omamori",
+            "legendary/equipment/omamori",
+            "legendary/cabin/sozercatel",
+            "legendary/cabin/sozercatel"
+        ]
+    },
+    {
+        "name": "vspolox",
+        "displayName": "Всполох",
+        "cuprum": 1000,
+        "battery": 1000,
+        "electronic": 1000,
+        "uran": 600,
+        "dependency": [
+            "legendary/weapon/iskra",
+            "legendary/weapon/gorynych"
+        ]
+    },
+    {
+        "name": "svetlyachok",
+        "displayName": "Светлячок",
+        "cuprum": 1000,
+        "battery": 1000,
+        "electronic": 1000,
+        "uran": 600,
+        "dependency": [
+            "legendary/weapon/mamont",
+            "legendary/weapon/kombain"
+        ]
+    },
+    {
+        "name": "dikobraz",
+        "displayName": "Дикобраз",
+        "cuprum": 1000,
+        "battery": 1000,
+        "electronic": 1000,
+        "uran": 600,
+        "dependency": [
+            "legendary/weapon/toshnitel",
+            "legendary/weapon/uragan"
+        ]
+    },
+    {
+        "name": "potroshitel",
+        "displayName": "Потрошитель",
+        "cuprum": 1000,
+        "battery": 1000,
+        "electronic": 1000,
+        "uran": 600,
+        "dependency": [
+            "legendary/weapon/fortuna",
+            "legendary/weapon/arbitr"
+        ]
+    },
+    {
+        "name": "skorpion",
+        "displayName": "Скорпион",
+        "cuprum": 1000,
+        "battery": 1000,
+        "electronic": 1000,
+        "uran": 600,
+        "dependency": [
+            "legendary/weapon/pulsar",
+            "legendary/weapon/jnec"
+        ]
+    }
+]
