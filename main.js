@@ -34,6 +34,7 @@ async function getItemWithChilds(fileName, itemName) {
     item.shell = item.shell ?? 0
     item.battery = item.battery ?? 0
     item.electronic = item.electronic ?? 0
+    item.uran = item.uran ?? 0
 
     if (item.dependency === undefined)
     {
@@ -59,6 +60,7 @@ async function getItemWithChilds(fileName, itemName) {
         item.shell += child.shell ?? 0
         item.battery += child.battery ?? 0
         item.electronic += child.electronic ?? 0
+        item.uran += child.uran ?? 0
     }
 
     return item
@@ -110,6 +112,7 @@ async function onSelect() {
                         <li>Провода: ${fullItem.wire}</li>
                         <li>Аккумуляторы: ${fullItem.battery}</li>
                         <li>Электроника: ${fullItem.electronic}</li>
+                        <li>Уран: ${fullItem.uran}</li>
                         <li>Гильзы: ${fullItem.shell}</li>
 
                     </ul>

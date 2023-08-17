@@ -14,7 +14,21 @@
             "epic/wheel/masorubka"
         ]
     },
-    
+    {
+        "name": "omamori",
+        "displayName": "Омамори",
+        "cuprum": 750,
+        "iron": 100,
+        "battery": 750,
+        "electronic": 750,
+        "dependency": [
+            "epic/weapon/baryer",
+            "epic/weapon/baryer",
+            "epic/equipment/neitrino",
+            "epic/equipment/neitrino",
+            "epic/equipment/dopler"
+        ]
+    },   
     {
         "name": "apollon",
         "displayName": "Аполлон",
