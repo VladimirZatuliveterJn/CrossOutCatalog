@@ -76,6 +76,19 @@ function findObjectByName(data, name) {
     return null; // If the object is not found, return null
 }
 
+function getPrices() {
+    return {
+        iron: 4.0,
+        cuprum: 3.5,
+        plastic: 32.0,
+        wire: 12.0,
+        battery: 20.5,
+        electronic: 40.0,
+        uran: 4550.0,
+        shell: 8.5
+    }
+}
+
 async function onSelect() {
     var cards = document.getElementById("cards");
     cards.innerHTML = "";
@@ -88,6 +101,8 @@ async function onSelect() {
     json = await getData(dataFileName)
 
     console.log(dataFileName)
+    
+    prices = getPrices();
 
     for (const item of json) {
         img = `./img/${rarity}/${moduleType}/${item.name}.webp`
@@ -98,6 +113,15 @@ async function onSelect() {
 
         console.log('getItemWithChilds dataFileName = ', dataFileName, ', itemName = ', item.name, ', fullItem =', fullItem)
 
+        gold = fullItem.iron * prices.iron / 100 
+            + fullItem.cuprum * prices.cuprum / 100
+            + fullItem.plastic / 100 * prices.plastic
+            + fullItem.wire / 100 * prices.wire
+            + fullItem.battery / 100 * prices.battery
+            + fullItem.electronic / 100 * prices.electronic
+            + fullItem.uran / 100 * prices.uran
+            + fullItem.shell / 100 * prices.shell
+    
         cardHtml = `
             <div class="card" style="width: 18rem;">
                 <img src="${img}" class="card-img-top" alt="...">
@@ -114,7 +138,8 @@ async function onSelect() {
                         <li>Электроника: ${fullItem.electronic}</li>
                         <li>Уран: ${fullItem.uran}</li>
                         <li>Гильзы: ${fullItem.shell}</li>
-
+                        <li>Примерно монет: ${gold.toFixed(2)}</li>
+                        
                     </ul>
                     <p>Зависит от:</p>
                     <ul>   
